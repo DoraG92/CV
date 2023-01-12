@@ -1,13 +1,14 @@
 ## Dora Gores
 
-Currently studying to become a Full Stack Junior Deleoper at [Makers Academy](https://makers.tech/)
+I am studying to become a Full Stack Junior Developer at [Makers Academy](https://makers.tech/). I have a 
+
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                     | Tech/tools        |
+| ---------------------------- | ------------------------------  | ----------------- |
+| **[Student Directory](https://github.com/DoraG92/student-directory)**            | A directory to manage students  | Ruby, GitHub      |
+| **[FizzBuzz](https://github.com/DoraG92/fizzbuzz)]** | Exercise to learn TDD and RSpec | Ruby, RSpec       |
 
 ## Work Experience
 
