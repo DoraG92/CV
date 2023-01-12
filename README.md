@@ -18,27 +18,25 @@ _Customer Service Representive_
 
 I handle core tasks such as chat, calls, and email, while also expertly fulfilling the role of **Activity Lead**, optimizing overnight schedules, ensuring urgent SLAs(Service Level Agreements) are met, closely monitoring demand, fixing schedule errors, raising incidents, logging absences, and handling requests from Managers. When acting as an **Account Management Expert**, I handle escalations for a broad range of complex technical queries and triage including legal queries, investigation and escalation of bugs to relevant engineering teams using Jira, sense checking and sending all our Data Subject Access Requests(DSARs) to customers, handling third party requests, handling escalations from the front-line team for complex queries such as Fees and Allowances, Card delivery issues, Terms and Conditions, App features and Bank Statements using APIs within the terminal. When acting as a **Card Payments Specialist**, I investigate Goods & Services escalations/forms, process refunds, as well as gather, validate and raise chargebacks with MasterCard.
 
- • Jira: A project management tool for software development teams to track tasks, bugs and issues
- • Slog Kibana: A data visualization tool that allows users to create and share dynamic dashboards for data analysis and monitorin
- • CLI
+ - Jira: A project management tool for software development teams to track tasks, bugs and issues
+ - Slog Kibana: A data visualization tool that allows users to create and share dynamic dashboards for data analysis and monitoring
+ - CLI
 
 **Unipart Technology Logistics** (January 2017 to August 2019)  
-_Operations collague_
+_Operations colleague_
 
 Started as a skilled technician, where I specialised in iPhone repairs, including replacement of damaged or faulty components such as displays, batteries, touch ID's and speakers, conducting in-depth investigations of faults reported by customers, performing advanced diagnostics on devices using diagnostic software, analyze error codes and perform hardware tests, as well as ensuring that billing is thoroughly reviwed and verified before the repaired devices are sent back to the customers. I then quiclkly progressed into a supervisor role where I was responsible for managing people according to Daily Stock report, making sure standard operating procedures(SOPs) are up to date, ensuring a continuous flow of the process, adjusting schedules, supporting the team with process related queries, and providing training to new team members.
 
- • Apple Service Toolkit 2: A tool used to run diagnostics on devices and identify any
+  - Apple Service Toolkit 2: A tool used to run diagnostics on devices and identify any
 issues that may be present
- • Global Service Exchange (GSX): A tool used by Apple service providers to access
+  - Global Service Exchange (GSX): A tool used by Apple service providers to access
 repair information and order parts for Apple products
- • SAP: A software to manage business operations and customer relations
+  - SAP: A software to manage business operations and customer relations
 
 
 ## Skills
 
 #### Fast Learner
-
- •
 
 - Experience
 - Achievements
