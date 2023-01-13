@@ -38,7 +38,7 @@ repair information and order parts for Apple products
 
 #### Fast Learner
 
-- I am a highly adaptable individual, with a proven ability to quickly acquire and apply new knowledge and skills. I have demonstrated this in a variety of fields, including previous employment, my own house renovation with no previous experience, video editing, and now coding. I am confident in my ability to excel in any task that I undertake.
+I am a highly adaptable individual, with a proven ability to quickly acquire and apply new knowledge and skills. I have demonstrated this in a variety of fields, including previous employment, my own house renovation with no previous experience, video editing, and now coding. I am confident in my ability to excel in any task that I undertake.
 
 #### Self-starter
 
@@ -74,8 +74,8 @@ _Equivalent to BTEC Level 3 (NARIC certificate)_
 
 #### Any other qualifications
 
-Codeacademy certificate
-- Ruby
+Ruby Codeacademy certificate
+
 
 ## Hobbies
 
