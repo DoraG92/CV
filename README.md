@@ -13,7 +13,7 @@ Currently studying to become a Full Stack Junior Developer at [Makers Academy](h
 
 ## Work Experience
 
-**Company Name** (August 2019 - present)  
+**Monzo Bank** (August 2019 - present)  
 _Customer Service Representive_
 
 I handle core tasks such as chat, calls, and email, while also expertly fulfilling the role of **Activity Lead**, optimizing overnight schedules, ensuring urgent SLAs(Service Level Agreements) are met, closely monitoring demand, fixing schedule errors, raising incidents, logging absences, and handling requests from Managers. When acting as an **Account Management Expert**, I handle escalations for a broad range of complex technical queries and triage including legal queries, investigation and escalation of bugs to relevant engineering teams, sense checking and sending all our Data Subject Access Requests(DSARs) to customers, handling third party requests, handling escalations from the front-line team for complex queries such as Fees and Allowances, Card delivery issues, Terms and Conditions, App features and Bank Statements. When acting as a **Card Payments Specialist**, I investigate Goods & Services escalations/forms, process refunds, as well as gather, validate and raise chargebacks with MasterCard.
