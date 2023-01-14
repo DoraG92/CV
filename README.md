@@ -44,9 +44,6 @@ I am a highly adaptable individual, with a proven ability to quickly acquire and
 
 My progress in programming has been driven by my self-motivation and self-discipline, refined by self-led learning at Makers, networking with software engineers at Monzo and taking on the challenge of renovating my first home with no prior experience, all of which have been critical to my growth as a programmer and as an individual.
 
-#### Communicator
-
-Makers has consolidated my communication skills within a coding environment, particularly when reviewing other peer's code, with an emphasis on pair programming from day one. Habitual collaborative learning engenders a deeper understanding of one's progress whilst working together to write cleaner code.
 
 #### Problem Solver
 
