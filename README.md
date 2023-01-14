@@ -38,7 +38,7 @@ repair information and order parts for Apple products
 
 #### Fast Learner
 
-I am a highly adaptable individual, with a proven ability to quickly acquire and apply new knowledge and skills. I have demonstrated this in a variety of fields, including previous employment, my own house renovation with no previous experience, video editing, and now coding. I am confident in my ability to excel in any task that I undertake.
+I am a highly adaptable individual, with a proven ability to quickly acquire and apply new knowledge and skills. I have demonstrated this in a variety of fields, including previous employment, my own house renovation, video editing, and now coding. I am confident in my ability to excel in any task that I undertake.
 
 #### Self-starter
 
@@ -47,7 +47,7 @@ My progress in programming has been driven by my self-motivation and self-discip
 
 #### Problem Solver
 
-I consider myself to be quite a good problem solver! I have to have a keen sense of observation, strong analytical skills, patience, and a good dose of creativity. I'm tipically the one people come to when they have a problem, big or small. And whether it's a technical issue, a personal crisis, or just a simple question, I'm always ready to jump in and find a solution. I might not always have all the answers, but I'm not afraid to admit it, and I'll go the extra mile to find themm, and sometimes the answer is a google search away, so hey I guess I'll do good as a software developer!
+I consider myself to be quite a good problem solver! I have a keen sense of observation, strong analytical skills, patience, and a good dose of creativity. I'm tipically the one people come to when they have a problem, big or small. And whether it's a technical issue, a personal crisis, or just a simple question, I'm always ready to jump in and find a solution. I might not always have all the answers, but I'm not afraid to admit it, and I'll go the extra mile to find themm, and sometimes the answer is a google search away, so hey I guess I'll do good as a software developer!
 
 ## Education
 
